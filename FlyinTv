@@ -3312,7 +3312,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
  
 #EXTINF:-1 tvg-id="KBSN" tvg-logo="https://iili.io/JmoPytR.png" group-title="TV KOREA",KBSN SPORT
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/faldufmvkzjfqiwnkjihtrwy44f1lqqm5c7g/hdntl=exp=1737999003~acl=*%2ffaldufmvkzjfqiwnkjihtrwy44f1lqqm5c7g%2f*~data=hdntl~hmac=04bb80b3efcbe010ac3366704bc3a6d766ce1b4d0e33da8044558e9dd6f7042d/chunklist_360.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/faldufmvkzjfqiwnkjihtrwy44f1lqqm5c7g/hdntl=exp=1737999003~acl=*%2ffaldufmvkzjfqiwnkjihtrwy44f1lqqm5c7g%2f*~data=hdntl~hmac=04bb80b3efcbe010ac3366704bc3a6d766ce1b4d0e33da8044558e9dd6f7042d/chunklist_720.stream.m3u8
 
 #EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="TV KOREA",SBS SPORT
 https://livecloud-slit.akamaized.net/sports/kr/entry/djEuMCYmRU5UUlkmJmQwNDQ4NzhlLTFkNGItNGFmMi1iOWViLTliY2Y2ODQwYzk0MyYmOTE3NzQwNyYmMTAxNTE5MjUmJjkxNzc0MDcxMDE1MTkyNUQwJiZm/hdntl=exp=1737917894~acl=*%2fentry%2f*~data=hdntl~hmac=c516c8c694d5cf43acd5cc68779515a51d2656894c4d436cd73379f6e5f142c9/chunklist_1080.stream.m3u8
