@@ -3311,7 +3311,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 #EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://iili.io/Jmo6cdu.png" group-title="TV JEPANG",BS Fuji
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
  
-#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://iili.io/JmoPytR.png" group-title="TV KOREA",KBSN SPORT
+#EXTINF:-1 tvg-id="KBSN" tvg-logo="https://iili.io/JmoPytR.png" group-title="TV KOREA",KBSN SPORT
 https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/faldufmvkzjfqiwnkjihtrwy44f1lqqm5c7g/hdntl=exp=1737998376~acl=*%2ffaldufmvkzjfqiwnkjihtrwy44f1lqqm5c7g%2f*~data=hdntl~hmac=005d4239b8c8bd06d11b6d46f61c09377d35f507580189d1112a13dff0ba2461/chunklist_1080.stream.m3u8
 
 #EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="TV KOREA",SBS SPORT
