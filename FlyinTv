@@ -3311,7 +3311,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
 https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1738252772&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzgyNTI3NzJ9fX1dfQ__&Signature=LSZJfC7orEdnBIUAjQ9VQBpOJ6wtF4TKJ6VaqYLCRlPpT8Y9JCRAtvhI3lexWkCwmBUN4ZNWPdKDnkHdSUsQq~BtlBaTSR4gOzuOD-LgxyZoxfyTCI9EYzS~3CACJlnFW8uR~q3RBpNCYhvWtf99HkyE6KM75zq52Dc8G8~kvrlTXGkUTyy4DFuC9LIekhACD5RHq~0S9VIfbbXpTt8r1sgB1RzX6ems4QGk5kH4qnMuYXK3FlOWsyaqw5ynAcxI27c7zRZPUMs3AXnvoN1crhqtIoaS010-~-z51etK7bC2~uqydkfAZNvXWyCMHpEGXFuiKdER5RmwBiBeF-insQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 
 #EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="TV KOREA",SBS SPORT
-https://drive.google.com/file/d/1Z8B-LfxqCrJimJlnK3xuz6LdVdnwKzaS/view
+https://tvlive.sbs.co.kr/sbskpop/sbskpop2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzgwODc3NjgsInBhdGgiOiIvc2Jza3BvcDIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJlZjkwNWYxOC1iMGQwLTQ2ZGUtYjk4ZS05N2JjNTVkNTUwMGYiLCJpYXQiOjE3MzgwODA1Njh9.lrE9sT7fcn6gr6-WTfHR7Adb_2hNlz5fHTQdQO4waOs&solsessionid=d708816329ade3d60297b31e4e5995f3
 
 #EXTINF:-1 tvg-id="KBS2" tvg-logo="https://iili.io/JmoiKSn.png" group-title="TV KOREA",KBS 2TV
 http://mytv.dothome.co.kr/ch/public/3.php
