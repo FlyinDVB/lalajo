@@ -3315,7 +3315,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
 https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/faldufmvkzjfqiwnkjihtrwy44f1lqqm5c7g/hdntl=exp=1737999003~acl=*%2ffaldufmvkzjfqiwnkjihtrwy44f1lqqm5c7g%2f*~data=hdntl~hmac=04bb80b3efcbe010ac3366704bc3a6d766ce1b4d0e33da8044558e9dd6f7042d/chunklist_720.stream.m3u8
 
 #EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="TV KOREA",SBS SPORT
-http://ye23.win/iptv/sbs5.1.php?id=S01
+http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
 
 #EXTINF:-1 tvg-id="KBS2" tvg-logo="https://iili.io/JmoiKSn.png" group-title="TV KOREA",KBS 2TV
 http://mytv.dothome.co.kr/ch/public/3.php
