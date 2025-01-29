@@ -3537,8 +3537,7 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="ASTRO SPORT",ASTRO ARENA
 https://zekonew.iosplayer.ru/zeko/premium123/mono.m3u8?token=none
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="ASTRO SPORT",ASTRO ARENA 2
-http://iptv.tvmalaysia.cc:80/penang189/penang189/9028
-
+https://zekonew.iosplayer.ru/zeko/premium370/mono.m3u8?token=none
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="ASTRO SPORT",ASSP 1
 https://zekonew.iosplayer.ru/zeko/premium123/mono.m3u8?token=none
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="ASTRO SPORT",ASSP 2
@@ -3546,14 +3545,11 @@ https://windnew.iosplayer.ru/wind/premium124/mono.m3u8?token=none
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="ASTRO SPORT",ASSP 3
 https://zekonew.iosplayer.ru/zeko/premium125/mono.m3u8?token=none
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="ASTRO SPORT",ASSP 4
-http://iptv.tvmalaysia.cc:80/penang189/penang189/9026
-
+https://zekonew.iosplayer.ru/zeko/premium126/mono.m3u8?token=none
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="ASTRO SPORT",ASSP 5
-http://51.79.147.95:8080/live/junior/junior/398.m3u8?token=SRdZUUFeRwtAAwVZVQ9SUFMHVgdaVgIKBgQLAwNQVgJRAFcIVwZVVwcQHhoSTUVTA15sDwZECwBaXhUWRRJVRm1cVRIIFFQJVgMQFENNXlsHEQlXVFUFClNVAAUBTRJEW1ETChADUwhbEB4aBEFDUxBdUgo9AlRFCgVcFgoPRVheGRNfXGkBVA9TXFxDAxUGQB8RDxEWEwkNE1VYHENSXUZHUERXFF8TUwQFDEMVFVUNRl0SEB8TCUEvfRYcQ1VMRlBfQ1tZCxNYEEZLQxUVXxFsQQMREkNWAgtcRhJbEgQQGRNdU046Ug1cXF0CTV5ZDEARXEBXEx9BC1ZaWRVfRm1FWFQQDEcDWwcACUNE
-
+https://windnew.iosplayer.ru/wind/premium43/mono.m3u8?token=none
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347" group-title="ASTRO SPORT",RTM SUKAN
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u
-
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 2001-2005" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018154X0-portrait.jpg",Tracey Ullman: Live & Exposed 2005
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
