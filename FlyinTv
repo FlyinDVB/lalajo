@@ -3537,15 +3537,20 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="ASTRO SPORT",ASTRO ARENA
-https://love2live.wideiptv.top/AstroArena/tracks-v1/index.fmp4.m3u8?token=e3b2201003d54bec4530e3a6bf51a5bd13b09a11-39cd23a5550fdccfc9797f8667b6ff1a-1738175549-1738164749
+https://love2live.wideiptv.top/AstroSuperSport4/tracks-v1/index.fmp4.m3u8?token=42ee754b4bb46629cbb32b768d86cc21422319b5-ceac21167d08fe4eee074b6183142b8e-1738245589-1738234789
+
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="ASTRO SPORT",ASTRO ARENA 2
-https://love2live.wideiptv.top/AstroSuperSport3/tracks-v1/index.fmp4.m3u8?token=14802cf876d414286ba08e0a380f7e11f06bc966-a419c10573b2809469b96d62f2c8f44e-1738177775-1738166975
+https://love2live.wideiptv.top/AstroCricket/tracks-v1/index.fmp4.m3u8?token=2e1b0a349dbf805b2db16bdabb6008574f5032d7-68086e5a2c44d4b113ebfe8d02862071-1738245713-1738234913
+
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="ASTRO SPORT",ASSP 1
-https://love2live.wideiptv.top/AstroSuperSport2/tracks-v1/index.fmp4.m3u8?token=24afb40de01cd19985d8dcc8eb55f745f134eb65-c4024e13a7996247f234740ae4fc395f-1738177877-1738167077
+https://love2live.wideiptv.top/AstroSuperSport3/tracks-v1/index.fmp4.m3u8?token=e47b089a8854be45519e32df884d63c273f12d34-eee49fc1221310ebd841369a47856d20-1738245771-1738234971
+
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="ASTRO SPORT",ASSP 2
-https://love2live.wideiptv.top/AstroSuperSport/tracks-v1/index.fmp4.m3u8?token=34a822b2f6509961fff3dc8899645db990f7bd20-76ccc323f279fbcc6910c5fb9d6bcfbb-1738175743-1738164943
+https://love2live.wideiptv.top/AstroSuperSport2/tracks-v1/index.fmp4.m3u8?token=058263a60ee75ad2c9a91daf6f3e5eb3da5d8b34-ae64552671d0e4db59467458eb64ad7b-1738245825-1738235025
+
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="ASTRO SPORT",ASSP 3
-https://love2live.wideiptv.top/AstroSuperSport2/tracks-v1/index.fmp4.m3u8?token=c67dcc12825f4f921b2fdb38b7973cada37dfab1-c6a214b1e90fbff35e87998250c2cc53-1738175811-1738165011
+https://love2live.wideiptv.top/AstroSuperSport/tracks-v1/index.fmp4.m3u8?token=c8131010cc1141de67639b7c8aadad9cffba51a9-7b8b075a0f89813c6e1e84d4b6d0054c-1738245865-1738235065
+
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="ASTRO SPORT",ASSP 4
 https://zekonew.iosplayer.ru/zeko/premium126/mono.m3u8?token=none
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="ASTRO SPORT",ASSP 5
