@@ -1,17 +1,7 @@
-#EXTM3U url=""
-# ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
-# █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
-# ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-01-25 10:04:00 GMT+7 "
-# (●) Service: Trial
-# (●) Total Channels: Null
-
-//////////////////////////////// BILA  MENEMUKAN PLAYLIST INI \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ UNTUK PEMAKAIAN PRIBADI SAJA ////////////////////////////////
-
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> FMX
-//========================================================================
+#EXTM3U
+#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://www.open-epg.com/files/malaysiapremium1.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://www.open-epg.com/files/india1.xml, https://www.open-epg.com/files/portugal.xml, https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml, https://www.open-epg.com/files/unitedkingdom4.xml, https://www.open-epg.com/files/unitedstates3.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/unitedstates4.xml, https://www.open-epg.com/files/australia1.xml, https://raw.githubusercontent.com/luizoliveira1970/epg/main/epg_ripper_BR1.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://www.open-epg.com/files/canada3.xml, https://www.open-epg.com/files/france.xml, https://www.open-epg.com/files/germany2.xml, https://www.open-epg.com/files/germany3.xml, https://www.open-epg.com/files/germany4.xml, https://www.open-epg.com/files/switzerland3.xml, https://raw.githubusercontent.com/soju6jan/epg2/main/file/xmltv_all2.xml, https://www.open-epg.com/files/ireland2.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkySportNow/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://raw.githubusercontent.com/skutyborsuk/IPTV/master/epg_v5.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey3, https://www.open-epg.com/files/italy1.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/mexico.xml, https://www.open-epg.com/files/thailand.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/belgium.xml, https://www.open-epg.com/files/belgiumpremium.xml, https://www.open-epg.com/files/irelandpremium.xml, https://www.open-epg.com/files/uaepremium2.xml, https://www.open-epg.com/files/polandpremium.xml, https://www.open-epg.com/files/philippines1.xml, https://www.open-epg.com/files/philippines2.xml, https://www.open-epg.com/files/sportspremium1.xml, https://www.open-epg.com/files/koreapremium.xml" refresh="3600"
+ 
+//Collected by @flyin >>> FMX
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="FMX",Indosiar
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -440,9 +430,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> INDIHOME
-//========================================================================
+//Collected by @flyin >>> INDIHOME
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
@@ -557,10 +545,7 @@ https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
 https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
 
-
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> VISION~PLUS
-//========================================================================
+//Collected by @flyin >>> VISION~PLUS
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCCZ1B6/soccer.png" group-title="VISION+", SOCCER CHANNEL
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1101,10 +1086,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinema
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
-
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> TRANSVISION
-//========================================================================
+//Collected by @flyin >>> TRANSVISION
 
 #EXTINF:-1 group-logo="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/73898/788713232d.jpg", group-title="TRANSVISION",TVRI
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2006,10 +1988,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
 
-
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> MPD~INDIHOME
-//========================================================================
+//Collected by @flyin >>> MPD~INDIHOME
 
 #EXTINF:-1 group-title="MPD~INDIHOME" tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW[INDIHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2261,9 +2240,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> ZAPITV
-//========================================================================
+//Collected by @flyin >>> ZAPITV
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/zJdyCpD/amc.png" group-title="ZAPITV 🇺🇸 🇪🇸", AMC 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2359,10 +2336,7 @@ https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jLt5pkEMwNDYDRSPKCr9lQ", "kid":"GTe48NyDPgqPRXJAly5EDQ" } ], "type":"temporary" }
 https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd
 
-
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> IPTV12K
-//========================================================================
+//Collected by @flyin >>> IPTV12K
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="INDONESIA TV",[ID] RCTI
 http://iptv12k.com:35461/654321/123456/2185
@@ -2451,10 +2425,7 @@ http://iptv12k.com:35461/654321/123456/2053
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="INDONESIA TV",[ID] Blue Ant Extreme 
 http://iptv12k.com:35461/654321/123456/2052
 
-
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> AKTV
-//========================================================================
+//Collected by @flyin >>> AKTV
 
 #EXTM3U x-tvg-url="https://e.erw.cc/e.xml"
 
@@ -2575,10 +2546,7 @@ http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 #EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",纬来体育台
 http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 
-
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> XCIPTV
-//========================================================================
+//Collected by @flyin >>> XCIPTV
 
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO + FHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO + FHD
 http://xciptv.8888play.one:80/228463308/r576049x/18763
@@ -2663,10 +2631,7 @@ http://xciptv.8888play.one:80/228463308/r576049x/18777
 #EXTINF:-1 tvg-id="Hboxtreme.br" tvg-name="HBO XTREME SD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME SD
 http://xciptv.8888play.one:80/228463308/r576049x/18778
 
-
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> IPTV
-//========================================================================
+//Collected by @flyin >>> IPTV
 
 #EXTINF:-1 tvg-id="KBS1" tvg-logo="https://iili.io/JmoPytR.png" group-title="KOREA",KBS 1TV
 http://mytv.dothome.co.kr/ch/public/1.php
@@ -2710,10 +2675,7 @@ http://109.107.189.180/11446/tracks-v1a1/mono.m3u8?token=65B16463F628
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FX
 https://fxtvhls.wns.live/hls/stream.m3u8
 
-
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Moveonjoy
-//========================================================================
+//Collected by @flyin >>> Moveonjoy
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA Moveonjoy",CBS 38 Boston
 https://fl2.moveonjoy.com/CBSEAST/index.m3u8
@@ -2872,10 +2834,7 @@ http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA Moveonjoy",Yes Network
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
-
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> THAI
-//========================================================================
+//Collected by @flyin >>> THAI
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="Thai Digital",NBT2HD
 https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
