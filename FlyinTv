@@ -3533,25 +3533,26 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="ASTRO SPORT",ASTRO ARENA
-https://love2live.wideiptv.top/AstroSuperSport4/tracks-v1/index.fmp4.m3u8?token=42ee754b4bb46629cbb32b768d86cc21422319b5-ceac21167d08fe4eee074b6183142b8e-1738245589-1738234789
+http://31.42.187.37:25461/watchpad13158/1234/4648
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="ASTRO SPORT",ASTRO ARENA 2
-https://love2live.wideiptv.top/AstroCricket/tracks-v1/index.fmp4.m3u8?token=2e1b0a349dbf805b2db16bdabb6008574f5032d7-68086e5a2c44d4b113ebfe8d02862071-1738245713-1738234913
+http://31.42.187.37:25461/watchpad13158/1234/11483
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="ASTRO SPORT",ASSP 1
-http://extraott.com:80/live/3969424152/3723991250/153953.m3u8
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1366
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="ASTRO SPORT",ASSP 2
-http://extraott.com:80/live/3969424152/3723991250/153952.m3u8
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1365
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="ASTRO SPORT",ASSP 3
-http://extraott.com:80/live/3969424152/3723991250/153951.m3u8
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1364
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="ASTRO SPORT",ASSP 4
-http://extraott.com:80/live/3969424152/3723991250/153950.m3u8 
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1161
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="ASTRO SPORT",ASSP 5
-https://bingsport.cfd/dno/stream.m3u8?cid=125&chunks=3e134d19f060cc2eb945071bb1288fd462ca2abe6878c31941132a0eeda2823c40b5bafcca220cd25c84cbcdd2be1751fae8939fe65fbe8d09c49f362d84859a6e69ffa70198a86f4cf7b071c5a5b0e5&vtoken=
+http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18623.ts
+
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347" group-title="ASTRO SPORT",RTM SUKAN
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 2001-2005" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018154X0-portrait.jpg",Tracey Ullman: Live & Exposed 2005
