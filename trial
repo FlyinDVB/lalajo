@@ -271,50 +271,18 @@ https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/xfjvbusj87amzmcszvdx
 //Collected by @flyin >>> MOVIES
 //========================================================================
 
-#EXTINF:-1 group-logo="https://iili.io/2ZoILkx.png", group-title="MOVIES",HBO (CBM)
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/hbo.png" group-title="MOVIES",HBO (CBM)
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbohits.png" group-title="MOVIES",HBO Hits (CBM)
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbofamily.png" group-title="MOVIES",HBO Family (CBM)
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbosig.png" group-title="MOVIES",HBO Signature (CBM)
-
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/cinemax.png" group-title="MOVIES",Cinemax (CBM)
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-
+#EXTINF:-1 group-logo="https://iili.io/2ZoILkx.png", group-title="MOVIES",Cinemachi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/604/604-LOGO-m.png" group-title="MOVIES",Cinemachi
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/608/608-LOGO-m.png" group-title="MOVIES",Cinemachi Action
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -352,70 +320,34 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/Galaxy
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-m.png" group-title="MOVIES",Galaxy
 https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-m.png" group-title="MOVIES",Galaxy (V+🟦)
-https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png" group-title="MOVIES",Rock Action (V+)
-https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png" group-title="MOVIES",Rock Action (V+🟦)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png" group-title="MOVIES",Rock Action
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-m.png" group-title="MOVIES",Tvn Movies (V+)
-https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-m.png" group-title="MOVIES",Tvn Movies (V+🟦)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-m.png" group-title="MOVIES",Tvn Movies
 https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/620/620-LOGO-m.png" group-title="MOVIES",My Cinema (V+)
-https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/620/620-LOGO-m.png" group-title="MOVIES",My Cinema (V+🟦)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/620/620-LOGO-m.png" group-title="MOVIES",My Cinema
 https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/621/621-LOGO-m.png" group-title="MOVIES",My Cinema Asia (V+)
-https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/621/621-LOGO-m.png" group-title="MOVIES",My Cinema Asia (V+🟦)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/621/621-LOGO-m.png" group-title="MOVIES",My Cinema Asia
 https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/619/619-LOGO-m.png" group-title="MOVIES",My Cinema Family (V+)
-https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/619/619-LOGO-m.png" group-title="MOVIES",My Cinema Family (V+🟦)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/619/619-LOGO-m.png" group-title="MOVIES",My Cinema Family
 https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -427,19 +359,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/342/10342-LOGO-m.png" group-title="MOVIES",IMC (V+)
-https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/342/10342-LOGO-m.png" group-title="MOVIES",IMC (V+🟦)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/342/10342-LOGO-m.png" group-title="MOVIES",IMC
 https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/635/635-LOGO-m.png" group-title="MOVIES",KIX (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/635/635-LOGO-m.png" group-title="MOVIES",KIX
 https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
