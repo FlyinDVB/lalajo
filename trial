@@ -4,7 +4,7 @@
 #EXTINF:-1 group-logo="https://iili.io/2Zq8xrg.png", group-title="TV LOKAL",RCTI
 #EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="TV LOKAL",RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+#KODIPROP:inputstream.adaptive.license_key=b1f8f0f38389e136146de18976267b3b598d49dc57bc8c3a7915a2419fb9d6ea8ca1c1e5872b6f8e952e901224181b9138c2ac715516e4c75aacd4b10f925139
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
