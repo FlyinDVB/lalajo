@@ -253,3 +253,15 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png" group-title="VISION SPORT",FIGHT SPORT
 https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+
+//========================================================================
+//Collected by @flyin >>> KOVO
+//========================================================================
+
+#EXTINF:-1 group-logo="https://iili.io/2ZBvTZB.png", group-title="KOVO",KBSN SPORT 1
+#EXTINF:-1 tvg-id="KBSN1" tvg-logo="https://iili.io/JmoPytR.png" group-title="KOVO",KBSN SPORT 1
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/3659cydkkx2zkpgf6uqvl0bqcp1swwfx84/hdntl=exp=1738357169~acl=*%2f3659cydkkx2zkpgf6uqvl0bqcp1swwfx84%2f*~data=hdntl~hmac=5dde1b01f66080158ee79ecfd95b9aedab607305b2ef8062cc764c0b5e3e18ce/chunklist_1080.stream.m3u8
+
+#EXTINF:-1 tvg-id="KBSN2" tvg-logo="https://iili.io/JmoPytR.png" group-title="KOVO",KBSN SPORT2
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/xfjvbusj87amzmcszvdx7o5w9fd9q8hx60/hdntl=exp=1738357251~acl=*%2fxfjvbusj87amzmcszvdx7o5w9fd9q8hx60%2f*~data=hdntl~hmac=025b208f75c78a0edf549e772e8c40c9a491976c34c58c31c1665a3a186ec8ad/chunklist_1080.stream.m3u8
