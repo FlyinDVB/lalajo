@@ -90,9 +90,22 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png" group-title="TV LOKAL",TVRI NATIONAL
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png" group-title="TV LOKAL",TVRI WORLD
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png" group-title="TV LOKAL",TVRI SPORT
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png" group-title="TV LOKAL",METRO TV
 https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/mobile/images/logo__cnn.png?v=11.0.5" group-title="TV LOKAL",CNN Indonesia
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="TV LOKAL",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+
