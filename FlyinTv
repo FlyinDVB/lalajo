@@ -1178,7 +1178,8 @@ https://english-livebkws.cgtn.com/live/doccgtn_0.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JmooMMl.png" group-title="DOKUMENTER",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
- 
+
+#EXTINF:-1 group-logo="https://iili.io/2ZFPRqP.jpg", group-title="BERITA",CNN International
 #EXTINF:-1 tvg-id="511.astro" tvg-logo="https://iili.io/JhksTaS.png" group-title="BERITA",CNN International
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
