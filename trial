@@ -36,7 +36,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205/primary/audio-vorbis/1738323253_62412005000.webm?hdntl=exp=1738400083~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~id=66383720~data=hdntl~hmac=130414f1dae432c5b555e086a81f94f84cb72c57da68877316c40139e5e2bb46
+https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205/primary/1080p/v-1080p-1738323253_62994600000.webm?hdntl=exp=1738400605~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~id=allUsers~data=hdntl~hmac=46ac4b34d64665ffc139e711f036b5f7f582c44d4cb90a08917bae23b6018c45
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://iili.io/2Zfd40g.png" group-title="TV LOKAL",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
