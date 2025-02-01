@@ -263,7 +263,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports
 
 #EXTINF:-1 group-logo="https://iili.io/2ZBvTZB.png", group-title="KOVO",KBSN SPORT 1
 #EXTINF:-1 tvg-id="KBSN1" tvg-logo="https://iili.io/2ZCEhue.png" group-title="KOVO",KBSN SPORT 1
-https://a01-g-naver-vod.akamaized.net/navertv/a/read/v2/VOD_ALPHA/navertv_2025_01_29_1417/hls/6b4bedc5-de51-11ef-ae99-a0369ff83cb8.m3u8
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://a01-g-naver-vod.akamaized.net/navertv/a/read/v2/VOD_ALPHA/navertv_2025_01_29_1417/hls/5c3aec6a-de50-11ef-b74b-a0369ffb348c-000026.ts?__gda__=1738469081_707f1c6623cf7d345b99b8ef02dcae59
 
 #EXTINF:-1 tvg-id="MAXSPORT" tvg-logo="https://iili.io/2Z0yaqB.jpg" group-title="KOVO",MAX SPORT
 https://livecloud.akamaized.net/sports/lip2_kr/cnmss0228/y6zuylghskj9ahvjpjvyy4xw45u1q739tksn/hdntl=exp=1738430134~acl=*%2fy6zuylghskj9ahvjpjvyy4xw45u1q739tksn%2f*~data=hdntl~hmac=bd846aab33bda0c7bab14b9528c2f6d7bfd9244255cb97c08f8b8b195d43108b/chunklist_1080.stream.m3u8
