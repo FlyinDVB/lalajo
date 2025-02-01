@@ -269,9 +269,9 @@ https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/e7ufr6rxomwpbkxtcgne
 https://livecloud.akamaized.net/sports/lip2_kr/cnmss0228/y6zuylghskj9ahvjpjvyy4xw45u1q739tksn/hdntl=exp=1738430134~acl=*%2fy6zuylghskj9ahvjpjvyy4xw45u1q739tksn%2f*~data=hdntl~hmac=bd846aab33bda0c7bab14b9528c2f6d7bfd9244255cb97c08f8b8b195d43108b/chunklist_1080.stream.m3u8
 
 #EXTINF:-1 tvg-id="MAXSPORT" tvg-logo="https://iili.io/2Z0yaqB.jpg" group-title="KOVO",astro
-#EXTVLCOPT:http-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205/primary/audio-vorbis/1738410221_16896022000.webm?hdntl=exp=1738441484~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~id=66559826~data=hdntl~hmac=1eaa9b3943c3346e49e97b8da9c2040cd0718af5a57211ed40e6606d471643f0
-#EXTVLCOPT:Referer: https://www.vidio.com/
+#EXTVLCOPT:http-referer=https://www.vidio.com/
 
 //========================================================================
 //Collected by @flyin >>> MOVIES
