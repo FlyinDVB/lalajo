@@ -491,13 +491,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
 //========================================================================
-//Collected by @flyin >>> INTERNATIONAL
+//Collected by @flyin >>> DENSTV
 //========================================================================
 
 #EXTINF:-1 tvg-id="densTV" tvg-logo="https://iili.io/2Z0nXdx.png" group-title="DENS LOKAL",LIVE STREAMING 1
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501154_tvchannels_v1.jpg" group-title="DENS LOKAL",Live Streaming 1
+#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501154_tvchannels_v1.jpg" group-title="DENS LOKAL",LIVE STREAMING 1
 https://op-group1-swiftservesd-1.dens.tv/s/s100/live.m3u8?app_type=web&userid=lite&chname=Live_Streaming_1
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
