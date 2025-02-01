@@ -494,7 +494,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 //Collected by @flyin >>> DENSTV
 //========================================================================
 
-#EXTINF:-1 tvg-id="densTV" tvg-logo="https://iili.io/2Z0nXdx.png" group-title="DENSTV",LIVE STREAMING 1
+#EXTINF:-1 group-logo="https://iili.io/2Z0nXdx.png", group-title="DENSTV",LIVE STREAMING 1
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501154_tvchannels_v1.jpg" group-title="DENSTV",LIVE STREAMING 1
