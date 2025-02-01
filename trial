@@ -269,8 +269,8 @@ https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/e7ufr6rxomwpbkxtcgne
 https://livecloud.akamaized.net/sports/lip2_kr/cnmss0228/y6zuylghskj9ahvjpjvyy4xw45u1q739tksn/hdntl=exp=1738430134~acl=*%2fy6zuylghskj9ahvjpjvyy4xw45u1q739tksn%2f*~data=hdntl~hmac=bd846aab33bda0c7bab14b9528c2f6d7bfd9244255cb97c08f8b8b195d43108b/chunklist_1080.stream.m3u8
 
 #EXTINF:-1 tvg-id="MAXSPORT" tvg-logo="https://iili.io/2Z0yaqB.jpg" group-title="KOVO",astro
-https://bingsport.cfd/dno/stream.m3u8?cid=124&chunks=f04156b34df0c3efa3a880a3d7df1921307e5936f0e3c85ffb29427e2e5b26c1b350adc485525470621b831f2ddfce260568cd15504771cf775688cd94a76ab7bbf20b307a80b9f6113b91fbc901c7fc&vtoken=
-#EXTVLCOPT:Referer=https://bingsport.cfd/dno/embed.php?play=124
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://bingsport.cfd/dno/stream.m3u8?cid=124&chunks=f04156b34df0c3efa3a880a3d7df1921307e5936f0e3c85ffb29427e2e5b26c1b350adc485525470621b831f2ddfce260568cd15504771cf775688cd94a76ab7bbf20b307a80b9f6113b91fbc901c7fc&vtoken=|Referer=https://bingsport.cfd/dno/embed.php?play=124
 
 //========================================================================
 //Collected by @flyin >>> MOVIES
