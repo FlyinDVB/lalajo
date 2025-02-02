@@ -3303,8 +3303,14 @@ https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/xfjvbusj87amzmcszvdx
 #EXTINF:-1 tvg-id="KBS1" tvg-logo="https://iili.io/JmoPytR.png" group-title="TV KOREA",KBS 1 TV
 http://mytv.dothome.co.kr/ch/public/1.php
 
-#EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="TV KOREA",SBS SPORT
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/xael5thlcffkslauawgcdgvpbsc2ljwpfy/hdntl=exp=1738245619~acl=*%2fxael5thlcffkslauawgcdgvpbsc2ljwpfy%2f*~data=hdntl~hmac=f84607aa929f25541d9ed887de6c2657070da52970d77a3b34015418ffd67d2b/chunklist_1080.stream.m3u8
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="TV KOREA",SBS SPORT FHD
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/1l7m4p67adqrul9jiqo2pnbbunjh84gh8d4r/hdntl=exp=1738511857~acl=*%2f1l7m4p67adqrul9jiqo2pnbbunjh84gh8d4r%2f*~data=hdntl~hmac=701ea3fae922334a244ef25728e9926df5eb0a66b1cd2e375d9d9e1c1094dc50/chunklist_1080.stream.m3u8
+
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="TV KOREA",SBS SPORT HD
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/1l7m4p67adqrul9jiqo2pnbbunjh84gh8d4r/hdntl=exp=1738511857~acl=*%2f1l7m4p67adqrul9jiqo2pnbbunjh84gh8d4r%2f*~data=hdntl~hmac=701ea3fae922334a244ef25728e9926df5eb0a66b1cd2e375d9d9e1c1094dc50/chunklist_720.stream.m3u8
+
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="TV KOREA",SBS SPORT SD
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/1l7m4p67adqrul9jiqo2pnbbunjh84gh8d4r/hdntl=exp=1738511857~acl=*%2f1l7m4p67adqrul9jiqo2pnbbunjh84gh8d4r%2f*~data=hdntl~hmac=701ea3fae922334a244ef25728e9926df5eb0a66b1cd2e375d9d9e1c1094dc50/chunklist_480.stream.m3u8
 
 #EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="TV KOREA",SBS TV
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
