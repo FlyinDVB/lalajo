@@ -251,6 +251,41 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png" group-title="FLY SPORT",FIGHT SPORT
 https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2ZsOvAx.png" group-title="FLY SPORT",Champions TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2ZsOvAx.png" group-title="FLY SPORT",Champions TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=drm
+https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=dash 
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2ZsOvAx.png" group-title="FLY SPORT",Champions TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2ZsOvAx.png" group-title="FLY SPORT",Champions TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2ZsOvAx.png" group-title="FLY SPORT",Champions TV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
 //========================================================================
 //Collected by @flyin >>> KOVO
@@ -889,9 +924,19 @@ https://ie.sonyrepairs.com/sksppremierleague/index.m3u8
 https://ie.sonyrepairs.com/sktennis/index.m3u8
 
 //========================================================================
-//Collected by @flyin >>> ASTRO
+//Collected by @flyin >>> SKY SPORT
 //========================================================================
+
 
 #EXTINF:-1 group-logo="https://iili.io/2ZPbhep.png", group-title="FLY ASTRO",ASSP 1
 #EXTINF:-1 tvg-id="Assp1" tvg-logo="https://iili.io/2ZP8X5J.png" group-title="FLY ASTRO",ASSP 1
 http://vipdikili.top:8080/live/VIP017141733137332272/37ede1a839db/34535.m3u8
+
+#EXTINF:-1 tvg-id="Assp2" tvg-logo="https://iili.io/2ZP8X5J.png" group-title="FLY ASTRO",ASSP 2
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1365
+
+#EXTINF:-1 tvg-id="Assp3" tvg-logo="https://iili.io/2ZP8X5J.png" group-title="FLY ASTRO",ASSP 3
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1364
+
+#EXTINF:-1 tvg-id="Assp4" tvg-logo="https://iili.io/2ZP8X5J.png" group-title="FLY ASTRO",ASSP 4
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1161
