@@ -265,7 +265,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports
 #EXTINF:-1 tvg-id="KBSN1" tvg-logo="https://iili.io/2ZCEhue.png" group-title="KOVO",KBSN SPORT 1
 //#EXTVLCOPT:http-referrer=https://m.sports.naver.com/
 //#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1738622978&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Mzg2MjI5Nzh9fX1dfQ__&Signature=fdi4VmySCa0~l7GQZeoghtP0iXmq8Zg9xA6Zn2IC8vVZ1EEu8ha0hIcvMgniQfUnsNb1xcklYwezDkYAfj2zfeYd6aw8ZDdMS1~rcDnIEhgzEiPxIDAp~nUK7gYivi36u53vl2ievTEVENF5A9Dl2dMXagIfMM54KZHsV2LD3M5EhqqcLSCXPcTaf-jfaw60J53PM0zs-KnfbFPeW8wttsvW~0X1odwkW26-rhP-2ruR65P2uy0~DR9imMRJaLi4Ry6WDBSGMLMCGZlCXBYpGOT9YiBXMF32frN0WkXprR2GpwJNqKs~q5SHxjJsD78y4c~yHscmhW54wKGCjGkV7Q__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/ikfp7x99u8ud5esosve95hoq1juw3ngr0zw3/hdntl=exp=1738504608~acl=*%2fikfp7x99u8ud5esosve95hoq1juw3ngr0zw3%2f*~data=hdntl~hmac=3705a3ccf3b3801467c7cdeeee13ddc1c8c658d2ec7591079979a7b8123546c1/chunklist_1080.stream.m3u8
 
 #EXTINF:-1 tvg-id="MAXSPORT" tvg-logo="https://iili.io/2Z0yaqB.jpg" group-title="KOVO",MAX SPORT
 https://livecloud.akamaized.net/sports/lip2_kr/cnmss0228/y6zuylghskj9ahvjpjvyy4xw45u1q739tksn/hdntl=exp=1738430134~acl=*%2fy6zuylghskj9ahvjpjvyy4xw45u1q739tksn%2f*~data=hdntl~hmac=bd846aab33bda0c7bab14b9528c2f6d7bfd9244255cb97c08f8b8b195d43108b/chunklist_1080.stream.m3u8
