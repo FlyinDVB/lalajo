@@ -958,7 +958,6 @@ http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18620.ts
 //Collected by @flyin >>> INDIHOME
 //========================================================================
 
-https://iili.io/2tFhI6X.png
 #EXTINF:-1 group-logo="https://iili.io/2tFhI6X.png", group-title="FLY INDIHOME",HITS NOW
 #EXTINF:-1 group-title="FLY INDIHOME"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1194,3 +1193,31 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
+
+//========================================================================
+//Collected by @flyin >>> SSC SPORT
+//========================================================================
+
+#EXTINF:-1 group-logo="https://iili.io/2tK4O9p.png", group-title="FLY SSC SPORT",SSC 1 FHD
+#EXTINF:-1 tvg-logo="https://iili.io/2tKL86F.png" group-title="FLY SSC SPORT", SSC 1 FHD 
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101766
+#EXTINF:-1 tvg-logo="https://iili.io/2tKL86F.png" group-title="FLY SSC SPORT", SSC 2 FHD  
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101765 
+#EXTINF:-1 tvg-logo="https://iili.io/2tKL86F.png" group-title="FLY SSC SPORT", SSC 3 FHD  
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101764 
+#EXTINF:-1 tvg-logo="https://iili.io/2tKL86F.png" group-title="FLY SSC SPORT", SSC 4 FHD  
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101763
+#EXTINF:-1 tvg-logo="https://iili.io/2tKL86F.png" group-title="FLY SSC SPORT", SSC 5 FHD  
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101761 
+#EXTINF:-1 tvg-logo="https://iili.io/2tKL86F.png" group-title="FLY SSC SPORT", SSC 6 FHD  
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101759
+#EXTINF:-1 tvg-logo="https://iili.io/2tKL86F.png" group-title="FLY SSC SPORT", SSC 7 FHD  
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101758 
+#EXTINF:-1 tvg-logo="https://iili.io/2tKL86F.png" group-title="FLY SSC SPORT", SSC 1 EXTRA FHD  
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/114764
+#EXTINF:-1 tvg-logo="https://iili.io/2tKL86F.png" group-title="FLY SSC SPORT", SSC 2 EXTRA FHD  
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/114762
+#EXTINF:-1 tvg-logo="https://iili.io/2tKL86F.png" group-title="FLY SSC SPORT", SSC 3 EXTRA FHD  
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/114760
+#EXTINF:-1 tvg-logo="https://iili.io/2tKL86F.png" group-title="FLY SSC SPORT", SSC NEWS FHD 
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101760
