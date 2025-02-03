@@ -502,7 +502,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 //Collected by @flyin >>> INTERNATIONAL
 //========================================================================
 
-#EXTINF:-1 group-logo="https://iili.io/2ZlYoBV.png", group-title="FLY WORLD",ABC Australia
+#EXTINF:-1 group-logo="https://iili.io/2tKV4mQ.png", group-title="FLY WORLD",ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
