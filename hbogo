@@ -1,19 +1,4 @@
 #EXTM3U url=""
-# ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
-# █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
-# ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-11-01 10:04:00 GMT+7 "
-# (●) Service: HBOGO Asia
-# (●) Total Channels: Null
-
-//////////////////////////////// BILA  MENEMUKAN PLAYLIST INI \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ UNTUK PEMAKAIAN PRIBADI SAJA ////////////////////////////////
-
-
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2024
-//========================================================================
-
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 2024" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/042577X0-portrait.jpg",Louder: The Soundtrack Of Change 2024
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
